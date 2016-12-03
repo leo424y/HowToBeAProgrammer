@@ -1,30 +1,30 @@
-# 附录 B - 历史
+# 附錄 B - 歷史
 [//]: # (Version:1.0.0)
-## 迁移到 Github
+## 遷移到 Github
 
-这篇文章已经在 github 上作为一个仓库创建了，这样它可以很容易地被分享、更新、提高。它是从这里复制过来的。[http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm](http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm) by [Braydie Grove](https://github.com/braydie)。 2016年1月迁移到 github。
+這篇文章已經在 github 上作為一個倉庫建立了，這樣它可以很容易地被分享、更新、提高。它是從這裡複製過來的。[http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm](http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm) by [Braydie Grove](https://github.com/braydie)。 2016年1月遷移到 github。
 
-## 希望反馈或扩展。
+## 希望反饋或擴充套件。
 
-请将你对这篇文章的任何评论发给我，我会考虑所有的建议，大部分都会对这篇文章有所帮助。
+請將你對這篇文章的任何評論發給我，我會考慮所有的建議，大部分都會對這篇文章有所幫助。
 
-这篇文章处于 GNU 免费文档授权下。这个授权不是专门为文章而设计的。文章通常有连贯的令人信服的服务于一个中心的论据。我希望这篇文章尽量短而易读。
+這篇文章處於 GNU 免費文件授權下。這個授權不是專門為文章而設計的。文章通常有連貫的令人信服的服務於一箇中心的論據。我希望這篇文章儘量短而易讀。
 
-我希望它是说明性的，尽管不是一本教科书，它被划分成许多小节，这样新的章节可以被自由地添加进去。有了这样的倾向，你可以用你觉得合适的方式来扩展这篇文章，且服从这个授权的规定。
+我希望它是說明性的，儘管不是一本教科書，它被劃分成許多小節，這樣新的章節可以被自由地新增進去。有了這樣的傾向，你可以用你覺得合適的方式來擴充套件這篇文章，且服從這個授權的規定。
 
-可能认为这个文档值得扩展有点自大，但希望生生不息。我会很高兴看到你用以下的方式扩展它：
+可能認為這個文件值得擴充套件有點自大，但希望生生不息。我會很高興看到你用以下的方式擴充套件它：
 
-对每个章节增加一些阅读理解，
+對每個章節增加一些閱讀理解，
 
-增加更多章节，
+增加更多章節，
 
-翻译为其他语言，即使只是一小部分一小部分地翻译，或者
+翻譯為其他語言，即使只是一小部分一小部分地翻譯，或者
 
-在文字间留下批评或评论，
+在文字間留下批評或評論，
 
-用不同形式构建的能力：比如 palm 格式或更好的 HTML 格式。
+用不同形式構建的能力：比如 palm 格式或更好的 HTML 格式。
 
-如果你向我传达了你的工作，我会考虑把它包括在我的子版本里，遵循这个许可证的规定。你也可以在我的了解之外制作你自己的版本，正如这个协议所说的。
+如果你向我傳達了你的工作，我會考慮把它包括在我的子版本里，遵循這個許可證的規定。你也可以在我的瞭解之外製作你自己的版本，正如這個協議所說的。
 
 Thank you.
 
@@ -32,16 +32,16 @@ Robert L. Read
 
 ## 原始版本
 
-这个文档的原始版本由 Robert L. Read 在2000年制作，并且以电子形式在2002年首发于 Samizdat Press(http://Samizdat.mines.edu) 。被 Hire.com 的程序员所使用。
+這個文件的原始版本由 Robert L. Read 在2000年製作，並且以電子形式在2002年首發於 Samizdat Press(http://Samizdat.mines.edu) 。被 Hire.com 的程式設計師所使用。
 
-在这篇文章2003年被 Slashdot 刊载后，大概有75个人给我发过邮件提过建议与错误修改。我感激他们中的所有人。可能有很多重复，但这些人不是提出来最主要的建议就是第一个找到了我的 bug：Morgan McGuire, David Mason, Tom Moertel, Ninja Programmer (145252) at Slashdot, Ben Vierck, Rob Hafernik, Mark Howe, Pieter Pareit, Brian Grayson, Zed A. Shaw, Steve Benz, Maksim Ioffe, Andrew Wu, David Jeschke, 以及 Tom Corcoran。
+在這篇文章2003年被 Slashdot 刊載後，大概有75個人給我發過郵件提過建議與錯誤修改。我感激他們中的所有人。可能有很多重複，但這些人不是提出來最主要的建議就是第一個找到了我的 bug：Morgan McGuire, David Mason, Tom Moertel, Ninja Programmer (145252) at Slashdot, Ben Vierck, Rob Hafernik, Mark Howe, Pieter Pareit, Brian Grayson, Zed A. Shaw, Steve Benz, Maksim Ioffe, Andrew Wu, David Jeschke, 以及 Tom Corcoran。
 
-最后，我想感谢 Christina Vallery，他的编辑和校对巨大地提高了第二份草稿，还有 Wayne Allen，他鼓励我开始了这件事情。
+最後，我想感謝 Christina Vallery，他的編輯和校對巨大地提高了第二份草稿，還有 Wayne Allen，他鼓勵我開始了這件事情。
 
-## 原始作者的简介
+## 原始作者的簡介
 
-Robert L. Read 生活在德克萨斯，奥斯汀, 有一个妻子和两个孩子，他现在是 Hire.com 的首席工程师。他在那里工作了四年。在这之前他建立了 4R 科技，为造纸工业生产基于扫描的图像分析质量控制工具。
+Robert L. Read 生活在德克薩斯，奧斯汀, 有一個妻子和兩個孩子，他現在是 Hire.com 的首席工程師。他在那裡工作了四年。在這之前他建立了 4R 科技，為造紙工業生產基於掃描的影象分析質量控制工具。
 
-Rob 在1995年在德州大学获得数据库理论方向的计算机博士学位。1987年他在 Rice 大学获得计算机科学学士学位，在16岁时，他就是一个带薪程序员了。
+Rob 在1995年在德州大學獲得資料庫理論方向的計算機博士學位。1987年他在 Rice 大學獲得電腦科學學士學位，在16歲時，他就是一個帶薪程式設計師了。
 
 Next [License](LICENSE.md)

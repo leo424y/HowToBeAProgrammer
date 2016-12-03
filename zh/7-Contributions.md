@@ -1,33 +1,33 @@
 # Contributions
 [//]: # (Version:1.0.0)
-这个仓库目标是成为一个社区驱动的工程，你的加入会极大地促进这个向导的质量。
+這個倉庫目標是成為一個社羣驅動的工程，你的加入會極大地促進這個嚮導的質量。
 
-## 我可以做什么贡献？
+## 我可以做什麼貢獻？
 
-有很多方式为 "How to be a Programmer" 做贡献
+有很多方式為 "How to be a Programmer" 做貢獻
 
-- 新章节的思想
-- 提升已有的章节
-- 识别排版错误或其他章节中的问题
-- 为章节提供额外的资源链接
-- 一般的用于提升工程的建议
-- 为这份指导提供翻译
+- 新章節的思想
+- 提升已有的章節
+- 識別排版錯誤或其他章節中的問題
+- 為章節提供額外的資源連結
+- 一般的用於提升工程的建議
+- 為這份指導提供翻譯
 
-## 翻译
+## 翻譯
 
-当前，这份指导已经从英文翻译为以下语言：
+當前，這份指導已經從英文翻譯為以下語言：
 
 - 中文 by [ahangchen](https://github.com/ahangchen)
 
- **如果你第一个提供了其他语言的翻译，你就是这个工程的一个明确的贡献者，请帮忙维护和 review 对翻译版本的修改。**
+ **如果你第一個提供了其他語言的翻譯，你就是這個工程的一個明確的貢獻者，請幫忙維護和 review 對翻譯版本的修改。**
 
 
-## 贡献者
+## 貢獻者
 
-Github 在这里会维护一个所有贡献者的列表 [contributors](https://github.com/braydie/HowToBeAProgrammer/graphs/contributors)
+Github 在這裡會維護一個所有貢獻者的列表 [contributors](https://github.com/braydie/HowToBeAProgrammer/graphs/contributors)
 
-## 校正与迁移到GitHub
+## 校正與遷移到GitHub
 
-[Braydie Grove](https://www.github.com/braydie) 已经同意作为主编。
+[Braydie Grove](https://www.github.com/braydie) 已經同意作為主編。
 
-Braydie 把原始的文档转成了 Markdown 的形式并创建了这个仓库。
+Braydie 把原始的文件轉成了 Markdown 的形式並建立了這個倉庫。
